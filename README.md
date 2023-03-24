@@ -34,4 +34,4 @@ In summary, BiLSTM adds one more LSTM layer, which reverses the direction of inf
 
 NLTK is the primary platform for building Python programs that work with human language data. Classification, tokenization, stemming, tagging, parsing, semantic reasoning, industry-grade wrappers around his NLP libraries, and an active discussion forum. NLTK has been called "a great tool for teaching and working with computational linguistics using Python" and "a great library for playing with natural languages". Natural Language Processing with Python is a hands-on introduction to language processing programming. Written by the NLTK developers, it guides the reader through the basics of writing Python programs, manipulating corpora, classifying text, and analyzing language structures.
 
-## All the necessary scripts with all required dependencies are provided. Thank you :))
+#### All the necessary scripts with all required dependencies are provided. Thank you :))
