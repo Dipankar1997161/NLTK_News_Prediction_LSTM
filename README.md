@@ -34,4 +34,12 @@ In summary, BiLSTM adds one more LSTM layer, which reverses the direction of inf
 
 NLTK is the primary platform for building Python programs that work with human language data. Classification, tokenization, stemming, tagging, parsing, semantic reasoning, industry-grade wrappers around his NLP libraries, and an active discussion forum. NLTK has been called "a great tool for teaching and working with computational linguistics using Python" and "a great library for playing with natural languages". Natural Language Processing with Python is a hands-on introduction to language processing programming. Written by the NLTK developers, it guides the reader through the basics of writing Python programs, manipulating corpora, classifying text, and analyzing language structures.
 
+## Output (snaps)
+Detailed output can be found in the jupyter notebooks:
+### LSTM
+![lstm news predict](https://user-images.githubusercontent.com/85514219/227782354-c7b560e8-280e-4076-a025-8bde447c8000.png)
+
+### BiDirectional LSTM
+![bi-lstm predict](https://user-images.githubusercontent.com/85514219/227782383-21f0565b-3cb1-4245-9855-ec7da72ba0d1.png)
+
 #### All the necessary scripts with all required dependencies are provided. Thank you :))
